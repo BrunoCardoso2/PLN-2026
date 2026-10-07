@@ -111,22 +111,4 @@ Arquivo `dataset_musicas_preprocessado.json` (lista de objetos):
 | `preprocessamento.tokens_stemizados`  | lista de strings | `tokens` após stemming (RSLP)                                                       |
 | `preprocessamento.tokens_lematizados` | lista de strings | Tokens lematizados via spaCy, a partir do texto normalizado e sem stopwords         |
 
----
 
-## 5. Como reproduzir
-
-```bash
-# 1. Dependências
-pip install requests beautifulsoup4 nltk spacy
-python -m spacy download pt_core_news_sm
-
-# 2. Coleta (gera dataset_top10_generos_50_musicas.json)
-#    Executar obtenção_de_dados_PLN.ipynb
-
-# 3. Pré-processamento (gera dataset_musicas_preprocessado.json)
-#    Executar preprocessamento.ipynb
-```
-
-Os dados `punkt`, `punkt_tab`, `stopwords` e `rslp` do NLTK são baixados pelo próprio notebook.
-
-> O scraping depende da estrutura HTML do letras.mus.br. Se o site mudar, os seletores podem precisar de ajuste. O ranking também muda com o tempo, então uma nova coleta pode trazer músicas diferentes. Os JSONs do repositório são a versão usada no trabalho.
