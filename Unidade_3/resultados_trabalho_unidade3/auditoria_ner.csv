@@ -1,0 +1,36 @@
+titulo,gênero,entidade,categoria,avaliação,comentário
+UNETHICAL,Pop,While I'm breaking all my bones,MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Peão Todo Tatuado (part. Mariana Fagundes),Funk,Beijo,LOC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Construção,MPB,Bebeu,MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Golden Days,Rock,Wish,LOC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Cálice (part. Milton Nascimento),MPB,Pai,PER,ambíguo,"""Pai"" (Deus) não é nome próprio; PER discutível"
+Legendary Lovers,Pop,"it out
+",MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Animal,Pop,two,MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Nosso Sonho,Funk,Buchecha,ORG,parcial,"Buchecha é pessoa real, mas a categoria ORG está errada"
+Animals,Rock,"I'm preying on you tonight
+",MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Peteco Peteco Peteco (part. Country Boy e DJ Ari SL),Sertanejo,Mexe,LOC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+"Cuida do Pet (part. MC Iguinho CT, MC Willian, Aaron Modesto, MC Negão Original, DU'L e DJ Aladin GDB)",Funk,Arrependida,LOC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+"GRWM (part. MC Willian, MC LUUKY, MC GP e DU'L)",Funk,"BYD
+",LOC,parcial,"BYD é marca real (ORG), rotulada LOC e com quebra de linha"
+Dai Dai (feat. Burna Boy),Pop,I know,MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Sacrifice,Pop,It's a human sign,MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Sugar,Rock,yes,ORG,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Hootie Frutti,Pop,Hootie,PER,incorreto,"trecho de verso ou palavra comum, não é entidade"
+She Will Be Loved,Rock,"knock on my door
+I want to make you feel beautiful
+",MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Fico Assim Sem Você,Funk,Sou,PER,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Black,Rock,All that,MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+What's Up?,Rock,Oh my God,MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+She Will Be Loved,Rock,in the pouring rain,MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Training Season,Pop,it's over,MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+the cure,Pop,hard to suck out,MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Bring Me To Life,Rock,There's nothing inside,MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Your Song,Pop,How wonderful,MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+The One That Got Away,Pop,In,MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Sunday Morning,Rock,she is all I,PER,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Vienna,Rock,but don't imagine they'll all,PER,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Treat You Better,Pop,Better,PER,incorreto,"trecho de verso ou palavra comum, não é entidade"
+Total Eclipse of the Heart,Pop,Every now and then I,MISC,incorreto,"trecho de verso ou palavra comum, não é entidade"

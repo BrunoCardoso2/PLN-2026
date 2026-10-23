@@ -1,0 +1,61 @@
+consulta,representação,posição,titulo,gênero,nota,justificativa
+saudade de um amor que acabou,BoW,1,Flor E O Beija-Flor,Sertanejo,1.0,saudade de um antigo amor
+saudade de um amor que acabou,BoW,2,COMO É QUE FALA DE AMOR?,Sertanejo,0.0,"fala do sertanejo, não de amor perdido"
+saudade de um amor que acabou,BoW,3,Seja Para Mim,Reggae,0.0,declaração de amor atual
+saudade de um amor que acabou,BoW,4,La Mour (Agamenon),Forró,1.0,arrependimento e solidão após perder o amor
+saudade de um amor que acabou,BoW,5,É Tarde Demais,Pagode,1.0,"fim de relacionamento (""depois de me perder"")"
+saudade de um amor que acabou,TF-IDF,1,Seja Para Mim,Reggae,0.0,declaração de amor atual
+saudade de um amor que acabou,TF-IDF,2,Flor E O Beija-Flor,Sertanejo,1.0,saudade de um antigo amor
+saudade de um amor que acabou,TF-IDF,3,La Mour (Agamenon),Forró,1.0,arrependimento e solidão após perder o amor
+saudade de um amor que acabou,TF-IDF,4,Defeito Meu,Pagode,1.0,"amor não correspondido, saudade"
+saudade de um amor que acabou,TF-IDF,5,É Tarde Demais,Pagode,1.0,"fim de relacionamento (""depois de me perder"")"
+saudade de um amor que acabou,Word2Vec,1,Flor E O Beija-Flor,Sertanejo,1.0,saudade de um antigo amor
+saudade de um amor que acabou,Word2Vec,2,COMO É QUE FALA DE AMOR?,Sertanejo,0.0,"fala do sertanejo, não de amor perdido"
+saudade de um amor que acabou,Word2Vec,3,Defeito Meu,Pagode,1.0,"amor não correspondido, saudade"
+saudade de um amor que acabou,Word2Vec,4,A Banda,MPB,0.0,"canção alegre, sem perda"
+saudade de um amor que acabou,Word2Vec,5,Que Se Chama Amor,Pagode,1.0,saudade e dor de amor
+saudade de um amor que acabou,BERT,1,Tu Mandas No Meu Coração,Pagode,1.0,"pedido de um tempo, tempo que acabou"
+saudade de um amor que acabou,BERT,2,La Mour (Agamenon),Forró,1.0,arrependimento e solidão após perder o amor
+saudade de um amor que acabou,BERT,3,Girassol,Rap,1.0,"""era amor, tornou dor"", saudade"
+saudade de um amor que acabou,BERT,4,Displicente,Forró,1.0,"perdeu o amor, quer voltar, saudade"
+saudade de um amor que acabou,BERT,5,Fim de Noite,Pagode,1.0,"finge não se importar com o fim, sente falta"
+dançar na festa com os amigos,BoW,1,Ainda Bem,MPB,0.0,"canção de amor, sem festa"
+dançar na festa com os amigos,BoW,2,Gnarly,Pop,0.5,"""goin' out tonight, gang"", mas é sobre a própria música"
+dançar na festa com os amigos,BoW,3,Os Guerreiros Se Preparam - 212,Gospel,0.0,hino religioso
+dançar na festa com os amigos,BoW,4,LET’S GO 4,Funk,0.5,"cita amigas e festa, tema principal é luxo"
+dançar na festa com os amigos,BoW,5,Ta Pedindo Toma,Funk,0.0,"sexo e dinheiro; só um ""rolê"""
+dançar na festa com os amigos,TF-IDF,1,Voando Pro Pará,Forró,1.0,"dançar, curtir, sair com os amigos"
+dançar na festa com os amigos,TF-IDF,2,LET’S GO 4,Funk,0.5,"cita amigas e festa, tema principal é luxo"
+dançar na festa com os amigos,TF-IDF,3,Não Sei Dançar,MPB,0.5,"dança como metáfora amorosa, sem festa"
+dançar na festa com os amigos,TF-IDF,4,"Vida Loka, Pt. 1",Rap,0.0,narrativa de crime
+dançar na festa com os amigos,TF-IDF,5,Laço na Fivela,Funk,1.0,"""hoje tem festa"", baile funk e dança"
+dançar na festa com os amigos,Word2Vec,1,Voando Pro Pará,Forró,1.0,"dançar, curtir, sair com os amigos"
+dançar na festa com os amigos,Word2Vec,2,Te Esperando,Sertanejo,0.0,canção de amor
+dançar na festa com os amigos,Word2Vec,3,"Vida Loka, Pt. 1",Rap,0.0,narrativa de crime
+dançar na festa com os amigos,Word2Vec,4,Os Guerreiros Se Preparam - 212,Gospel,0.0,hino religioso
+dançar na festa com os amigos,Word2Vec,5,"MDT (part. MC Jvila, DJ Glenner e Caio Passos)",Funk,0.0,crime e dinheiro
+dançar na festa com os amigos,BERT,1,Era Uma Vez (Poesia Acústica #6),Rap,0.5,baile e dança em trechos de uma faixa longa com vários temas
+dançar na festa com os amigos,BERT,2,Laço na Fivela,Funk,1.0,"""hoje tem festa"", baile funk e dança"
+dançar na festa com os amigos,BERT,3,Set Boca de 09 / Mostra Esses Peito…,Funk,0.5,"balada e festa citadas, tema misto"
+dançar na festa com os amigos,BERT,4,Cuida do Pet,Funk,0.5,"sair na sexta para beber, tema principal é outro"
+dançar na festa com os amigos,BERT,5,GRWM,Funk,0.0,academia e rotina
+fé em Deus e esperança,BoW,1,A Alma Abatida - 193,Gospel,1.0,"confiar em Deus, esperar em Jesus"
+fé em Deus e esperança,BoW,2,Toda Bíblia É Comunicação,Gospel,1.0,fé e Deus
+fé em Deus e esperança,BoW,3,Clareou,Pagode,1.0,"""Deus é quem sabe"", mantenha a fé"
+fé em Deus e esperança,BoW,4,Bondade de Deus,Gospel,1.0,louvor e confiança em Deus
+fé em Deus e esperança,BoW,5,Ó Desce Fogo Santo - 5,Gospel,1.0,consagração a Deus
+fé em Deus e esperança,TF-IDF,1,A Alma Abatida - 193,Gospel,1.0,"confiar em Deus, esperar em Jesus"
+fé em Deus e esperança,TF-IDF,2,Selado Na Luz,Reggae,1.0,"proteção divina, oração"
+fé em Deus e esperança,TF-IDF,3,Toda Bíblia É Comunicação,Gospel,1.0,fé e Deus
+fé em Deus e esperança,TF-IDF,4,Clareou,Pagode,1.0,"""Deus é quem sabe"", mantenha a fé"
+fé em Deus e esperança,TF-IDF,5,"Vida Loka, Pt. 1",Rap,0.0,narrativa de crime; Deus aparece pouco
+fé em Deus e esperança,Word2Vec,1,A Alma Abatida - 193,Gospel,1.0,"confiar em Deus, esperar em Jesus"
+fé em Deus e esperança,Word2Vec,2,Conversão - 15,Gospel,1.0,"salvação, fé em Jesus"
+fé em Deus e esperança,Word2Vec,3,Oração de São Francisco,MPB,1.0,oração; levar a fé e a esperança
+fé em Deus e esperança,Word2Vec,4,Agindo Diferente,Gospel,1.0,"história bíblica, confiança em Deus"
+fé em Deus e esperança,Word2Vec,5,Selado Na Luz,Reggae,1.0,"proteção divina, oração"
+fé em Deus e esperança,BERT,1,Toda Bíblia É Comunicação,Gospel,1.0,fé e Deus
+fé em Deus e esperança,BERT,2,Ó Desce Fogo Santo - 5,Gospel,1.0,consagração a Deus
+fé em Deus e esperança,BERT,3,Porque Ele Vive - 545,Gospel,1.0,"""posso crer no amanhã"", Jesus"
+fé em Deus e esperança,BERT,4,Campeões da luz - 305,Gospel,1.0,"escudo da fé, Deus"
+fé em Deus e esperança,BERT,5,Firme nas Promessas - 107,Gospel,1.0,confiança nas promessas de Jesus

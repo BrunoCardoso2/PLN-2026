@@ -1,0 +1,38 @@
+grupo,titulo,gênero,previsto,NEG,NEU,POS,avaliação,comentário
+amostra,the cure,Pop,NEU,0.03,0.86,0.11,ambíguo,melancólica e esperançosa; neutro defensável
+amostra,Perfect,Pop,NEU,0.04,0.7,0.26,incorreto,canção de amor claramente positiva
+amostra,Amo Noite e Dia,Sertanejo,NEU,0.1,0.49,0.41,ambíguo,"romântica, NEU e POS próximos"
+amostra,Cabeça de Gelo,Reggae,NEU,0.08,0.74,0.18,correto,introdução falada de show
+amostra,Sacrifice,Pop,NEU,0.04,0.84,0.12,ambíguo,"infidelidade, tom frio; NEU discutível"
+amostra,"MDT (part. MC Jvila, DJ Glenner e Caio Passos)",Funk,NEU,0.16,0.78,0.06,correto,dinheiro/crime sem emoção explícita
+amostra,Cafajeste Chucro,Funk,NEU,0.11,0.72,0.17,correto,tom brincalhão sem polaridade clara
+amostra,Chuva de Arroz,Sertanejo,NEU,0.07,0.79,0.13,incorreto,felicidade e paixão explícitas
+amostra,Pra Não Dizer Que Não Falei Das Flores,MPB,NEU,0.07,0.85,0.08,ambíguo,protesto com esperança e crítica
+amostra,"Quem Ama, Cuida",Forró,NEU,0.08,0.78,0.13,correto,cuidado/ciúme leve
+amostra,Love Yourself,Pop,NEU,0.05,0.85,0.1,incorreto,raiva e ironia pós-término (negativo)
+amostra,So Easy (To Fall In Love),Pop,NEU,0.04,0.74,0.23,incorreto,tom positivo de paixão
+amostra,It Wasnt Me,Reggae,NEU,0.05,0.86,0.09,ambíguo,humor sobre traição
+amostra,"Rocket Man (I Think It's Going To Be A Long, Long Time)",Pop,NEU,0.04,0.83,0.13,incorreto,solidão e saudade (negativo)
+amostra,It Wasn't Me (feat. RikRok),Reggae,NEU,0.05,0.86,0.09,ambíguo,humor sobre traição
+amostra,A Vida É Desafio,Rap,NEU,0.18,0.73,0.09,ambíguo,"desafio social, tom misto"
+amostra,Alvo Mais Que a Neve - 39,Gospel,NEU,0.06,0.64,0.3,ambíguo,louvor e redenção; NEU/POS
+amostra,Anjo Querubim,Forró,NEU,0.12,0.59,0.29,ambíguo,mistura de amor e dor
+amostra,Redemption Song,Reggae,NEU,0.04,0.87,0.09,ambíguo,"liberdade e opressão, misto"
+amostra,Gnarly,Pop,NEU,0.04,0.86,0.1,ambíguo,tom animado sem emoção clara
+amostra,Peão Todo Tatuado (part. Jeninho),Sertanejo,NEU,0.08,0.58,0.35,ambíguo,flerte; NEU/POS
+amostra,Creep,Rock,NEU,0.05,0.79,0.16,incorreto,autodepreciação (negativo)
+amostra,Vocês e Deus,Sertanejo,NEU,0.15,0.72,0.13,ambíguo,começa triste e termina em gratidão
+amostra,Santeria,Reggae,NEU,0.05,0.86,0.09,ambíguo,"ciúme e amor, misto"
+amostra,Love On The Brain,Pop,NEU,0.05,0.75,0.2,ambíguo,"dor e amor, misto"
+amostra,"Ta Pedindo Toma (part. MC RN DO CAPÃO, MC Murilo MT, MC DR e MC Pelourinho)",Funk,NEU,0.2,0.76,0.04,correto,"vulgar, sem emoção clara"
+amostra,Amar Você,Pagode,POS,0.04,0.42,0.55,correto,declaração de amor positiva
+amostra,Fica Combinado Assim,Pagode,NEG,0.51,0.39,0.09,correto,fim de relacionamento
+amostra,Sonho de Amor,Sertanejo,NEU,0.04,0.59,0.37,incorreto,romântica e esperançosa (positivo)
+amostra,História Real,Funk,NEU,0.34,0.55,0.1,incorreto,história com final trágico (negativo)
+neg_extra,"Vida Loka, Pt. 1",Rap,NEG,0.85,0.13,0.02,correto,violência/crime
+neg_extra,Japão X França (Blue Lock) - Copa do Mundo PT 2 (part. AniRap),Rap,NEG,0.52,0.44,0.05,incorreto,"competição de futebol, não negativa"
+neg_extra,Temporal,Pagode,NEG,0.51,0.43,0.06,correto,saudade do amor perdido
+neg_extra,É Tarde Demais,Pagode,NEG,0.61,0.33,0.07,correto,mágoa pós-término
+neg_extra,Assunto (part. Hungria),Forró,NEG,0.77,0.19,0.04,correto,saudade e raiva
+neg_extra,Cristal Quebrado,Forró,NEG,0.47,0.45,0.08,correto,fim do amor
+neg_extra,La Mour (Agamenon),Forró,NEG,0.47,0.46,0.07,correto,desilusão e solidão
